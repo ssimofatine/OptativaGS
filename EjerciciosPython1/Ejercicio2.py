@@ -8,6 +8,9 @@
 edad = input("Dime tu edad: ")
 
 edad = int(edad)
+simo = input("hello")
+
+
 
 if edad < 18:
     print("Eres menor de edad")
