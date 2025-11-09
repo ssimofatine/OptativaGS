@@ -8,7 +8,7 @@
 edad = input("Dime tu edad: ")
 
 edad = int(edad)
-simo = input("hello")
+
 
 
 
