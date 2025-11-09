@@ -17,7 +17,7 @@ while numBoolean:
     if convierta(c1):
         break
     else:
-        print("tu numero no es numero entere porfa introduce comó este Ej(1, 2, 3, 55.4)")
+        print("tu número no es número entero porfa introduce comó esté Ej(1, 2, 3, 55.4 ...)")
 
 
 
