@@ -1,3 +1,14 @@
+### 9. Diccionario de estudiantes
+
+#Crea un diccionario donde la clave sea el nombre de un estudiante y el valor su nota. Después:
+
+#- Añade 3 estudiantes.
+#- Muestra el promedio de las notas.
+
+#---
+
+
+
 libro_notas = {}
 
 nombre1 = input("nombre estudiante 1: ")

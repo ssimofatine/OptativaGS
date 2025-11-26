@@ -1,3 +1,10 @@
+### 12. Número primo
+
+#Escribe un programa que determine si un número ingresado por el usuario es primo o no.
+
+#---
+
+
 numero_ver = int(input("pon numero para ver si primo: "))
 es_primo_verdad = True
 

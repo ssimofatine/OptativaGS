@@ -1,3 +1,9 @@
+### 13. Suma de elementos de una matriz
+
+#Crea una matriz (lista de listas) de 2x3 con valores introducidos por el usuario y calcula la suma de todos sus elementos.
+
+#---
+
 matriz_caja = []
 # fila 1
 fila_uno = []

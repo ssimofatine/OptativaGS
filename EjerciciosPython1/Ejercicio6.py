@@ -1,3 +1,9 @@
+### 6. Máximo y mínimo de una lista
+
+#Dada una lista de números (pedidos al usuario), muestra el número más pequeño y el más grande.
+
+#---
+
 lista_numeros = []
 cantidad = int(input("cuantos numeros poner? "))
 

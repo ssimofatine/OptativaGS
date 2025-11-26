@@ -1,3 +1,9 @@
+### 5. Lista invertida
+
+##Crea una lista con 5 números introducidos por el usuario y luego muéstrala invertida.
+
+
+
 lista_caja = []
 
 numero_uno = input("pon numero 1: ")

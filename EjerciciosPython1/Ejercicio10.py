@@ -1,3 +1,9 @@
+### 10. Frecuencia de letras
+
+#Pide al usuario una frase y almacena en un diccionario cuántas veces aparece cada letra.
+
+#---
+
 frase_escrita = input("escribe algo aqui: ")
 caja_conteo = {}
 
